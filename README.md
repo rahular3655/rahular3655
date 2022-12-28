@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
                 alt="react" />
         </a>      
  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img
-                src="https://skillicons.dev/icons?i=django"
-                alt="vuejs" />
+                src="https://www.django-rest-framework.org/img/logo.png"
+                alt="drf" />
         </a>   
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
                 src="https://skillicons.dev/icons?i=webpack"
