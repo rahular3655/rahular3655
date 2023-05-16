@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul A R
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working as a web developer
 -  I’m looking to collaborate on python web development projects
 - 📫 How to reach me: rahulardeveloper@gmail.com
 
